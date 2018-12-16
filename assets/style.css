@@ -1,0 +1,15 @@
+#train-table thead tr th
+     {
+      display: inline-block;
+      width: 20%;
+      text-align: center !important;
+    }   
+
+#train-table tbody tr th {
+    text-align: center !important;
+    align-content: center !important;
+}  
+
+td{
+    text-align: center;
+}
